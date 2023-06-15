@@ -19,10 +19,6 @@ let currsel = undefined
 
 // General app wide data vars
 // all data is already in dataCol, the parcels & outlines are there for easier access to just the meshes
-let visibleTreeParcel = {}
-let dataCol = {}
-let dataTree = {}
-let depthTree = {}
 let buildingsColl = []
 let setbacksColl = []
 let buildingData = undefined
